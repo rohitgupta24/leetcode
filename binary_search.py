@@ -18,6 +18,7 @@ def binary_search(arr, target):
 
     return -1
 
+
 arr = [1,2,3,4,5,6]
 target = 6
 
